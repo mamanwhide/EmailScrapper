@@ -1,7 +1,8 @@
 # EmailScrapper
 # Welcome To Mobile Legend
 
-#Install linux
+#Installasion in linux
+
 git clone https://github.com/mamanwhide/EmailScrapper.git
 apt-get install pip3
 pip3 install -r requirements.txt
