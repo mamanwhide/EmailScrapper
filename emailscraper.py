@@ -5,7 +5,13 @@ from bs4 import BeautifulSoup
 import requests
 import urllib.parse
 
-print('\n=============== Welcome to mobile legend ==================')
+print('\██████╗ ███████╗  ██████╗      
+██╔══██╗██╔════╝ ██╔═══██╗    
+██████╔╝█████╗   ██╔═══██╝    
+██╔═══╝ ██╔══╝   ███████      
+██║     ███████╗ ███  ███     
+╚═╝     ╚══════╝ ╚═╝  ╚═╝     
+Made with ❤️ by Mamanwhide')
 print('================== Create By Manwhide =====================')
 
 user_url = str(input('\n[+] Masukkan url: '))
