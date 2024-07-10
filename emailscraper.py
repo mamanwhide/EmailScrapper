@@ -11,8 +11,8 @@ print('\██████╗ ███████╗  ██████╗
 ██╔═══╝ ██╔══╝   ███████      
 ██║     ███████╗ ███  ███     
 ╚═╝     ╚══════╝ ╚═╝  ╚═╝     
-Made with ❤️ by Mamanwhide')
-print('================== Create By Manwhide =====================')
+')
+print('Made with ❤️ by Mamanwhide')
 
 user_url = str(input('\n[+] Masukkan url: '))
 urls = deque([user_url])
